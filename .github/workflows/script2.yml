@@ -25,5 +25,4 @@ jobs:
 
     - name: Run Python scripts
       run: |
-         Data-Analysis-using-python .github/workflows/IBM_Tasks.py
-        
+         Data-Analysis-using-python .github/workflows/IBM_Tasks .py
