@@ -23,6 +23,6 @@ jobs:
         pip install pandas
 
 
-    - name: Run Python scripts
+    - name: Data-Analysis-using-python script2
       run: |
-         Data-Analysis-using-python .github/workflows/IBM_Tasks .py
+         Data-Analysis-using-python .github/workflows/IBM_Tasks.py
